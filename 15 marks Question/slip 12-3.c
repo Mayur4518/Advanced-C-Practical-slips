@@ -1,3 +1,6 @@
+/*Write a C program to create a structure named book (book_name, 
+author_name and price) and display all book details having price >
+in a proper format by passing the structure array as function argument.*/
 #include<stdio.h>
 struct book
 {
