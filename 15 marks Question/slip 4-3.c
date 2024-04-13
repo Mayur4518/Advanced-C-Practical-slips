@@ -1,3 +1,5 @@
+/*Write a program to read the contents of a text file and count the number of 
+characters, lines and words in the file.*/
 #include<stdio.h>
 int main()
 {
