@@ -1,4 +1,6 @@
-
+/*Write a program to declare a structure person (name, address) which 
+contains another structure birthdate (day, month, year). Accept the details
+of n persons and display them.*/
 #include<stdio.h>
  struct person
  {
