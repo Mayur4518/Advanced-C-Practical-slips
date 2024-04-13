@@ -1,3 +1,4 @@
+/*Write a C program to count the vowels and consonants in a string*/
 #include<stdio.h>
 int main()
 {
