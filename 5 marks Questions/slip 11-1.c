@@ -1,3 +1,5 @@
+/*Write a C program to find the area of a circle by using PI as
+macro.*/
 #include<stdio.h>
 #define PI 3.14
 int main()
