@@ -1,3 +1,4 @@
+/*Write a C program to interchange two numbers using pointers.*/
 #include<stdio.h>
 int main()
 {
