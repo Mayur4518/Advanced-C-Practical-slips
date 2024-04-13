@@ -1,3 +1,4 @@
+/*Write a program to copy contents of one file to another.*/
 #include<stdio.h>
 int main()
 {
