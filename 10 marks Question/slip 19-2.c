@@ -1,3 +1,5 @@
+/*Write a program to accept details of n items (code, name, price) 
+using structure and display the details.*/
 #include<stdio.h>
 struct items
 {
