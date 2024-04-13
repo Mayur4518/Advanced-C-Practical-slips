@@ -1,3 +1,5 @@
+/*Write a program to accept and display details of 5 employees (id, 
+name, salary) using structure.*/
 #include<stdio.h>
 struct emp
 {
