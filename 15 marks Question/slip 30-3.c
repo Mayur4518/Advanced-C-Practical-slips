@@ -1,3 +1,6 @@
+/*Create a structure employee (id, name, salary). Accept details of n 
+employees and find the details of employee having maximum salary. 
+Write separate function.*/
 #include<stdio.h>
 struct employee
 {
