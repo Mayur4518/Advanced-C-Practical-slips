@@ -1,3 +1,6 @@
+/*Write a menu driven program to perform the following 
+operations on strings using standard library functions:
+i) Compare ii) Copy*/
 #include<stdio.h>
 #include<string.h>
 int main()
