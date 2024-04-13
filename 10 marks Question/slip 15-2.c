@@ -1,3 +1,5 @@
+/*Write a C program to count the number of characters and lines in a 
+text file.*/
 #include<stdio.h>
 int main()
 {
