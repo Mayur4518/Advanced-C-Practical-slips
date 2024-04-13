@@ -1,3 +1,5 @@
+/*Write a program to find the length of a string using standard library 
+function.*/
 #include<stdio.h>
 #include<string.h>
 int main()
