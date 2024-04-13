@@ -1,3 +1,6 @@
+/*Write a program to accept ‘n’ employee details (eno, ename, salary) and 
+display all employee details whose salary is more than 10000, by passing 
+array of structure to the function.*/
 #include<stdio.h>
 struct emp
 {
