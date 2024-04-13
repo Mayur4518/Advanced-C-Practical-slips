@@ -1,3 +1,5 @@
+/*Write a C program to compare two strings using standard library 
+function.*/
 #include<stdio.h>
 #include<string.h>
 int main()
