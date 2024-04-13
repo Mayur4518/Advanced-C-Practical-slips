@@ -1,3 +1,7 @@
+/*Write a program to perform the following operations on strings using 
+standard library functions:
+a. Copy one string to another
+b. Convert a string to uppercase.*/
 #include<stdio.h>
 #include<string.h>
 int main()
