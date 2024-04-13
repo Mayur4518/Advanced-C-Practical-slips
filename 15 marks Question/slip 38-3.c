@@ -1,3 +1,7 @@
+/*Write a C program to create structure employee (id, name, salary). Accept 
+details of n employees and perform the following operations:
+a. Display all employees.
+b. Display details of all employees having salary >500.*/
 #include<stdio.h>
 struct employee
 {
