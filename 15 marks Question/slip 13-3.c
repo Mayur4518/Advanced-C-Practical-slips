@@ -1,3 +1,7 @@
+/*Accept details of n students (roll no, name, percentage) using structure.
+Write a menu driven program for the following:
+a. Display all students
+b. Display all students having percentage >75.*/
 #include<stdio.h>
 struct student
 {
