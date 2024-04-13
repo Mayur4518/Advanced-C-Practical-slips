@@ -1,3 +1,6 @@
+/*Write a C program to copy the contents of one text file to another such 
+that uppercase alphabets are converted to lowercase, lowercase to
+uppercase and digits are converted to *.*/
 #include<stdio.h>
 int main()
 {
