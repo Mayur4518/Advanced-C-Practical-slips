@@ -1,3 +1,8 @@
+/*Write a menu driven program using standard library function
+• To find Length of string
+• To compare two strings
+• To copy one string to other.
+• To concatenate two strings*/
 #include<stdio.h>
 #include<string.h>
 int main()
