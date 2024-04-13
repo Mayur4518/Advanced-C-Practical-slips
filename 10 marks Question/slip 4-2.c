@@ -1,3 +1,6 @@
+/*Write a program to perform the following operations on two 
+strings using standard library functions:
+a. Copy b. Compare*/
 #include<stdio.h>
 #include<string.h>
 int main()
