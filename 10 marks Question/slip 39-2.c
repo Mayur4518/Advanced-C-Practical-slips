@@ -1,3 +1,6 @@
+/*Write a program to create student structure having fields roll no, 
+name. Accept details of one student and write a function to 
+display the details.*/
 #include<stdio.h>
 struct student
 {
