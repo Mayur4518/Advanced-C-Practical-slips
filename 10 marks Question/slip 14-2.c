@@ -1,3 +1,5 @@
+/*Write a C program to accept three integers as command line 
+arguments and find the maximum of the three.*/
 #include<stdio.h>
 #include<conio.h>
 int main(int argc,char *argv[])
