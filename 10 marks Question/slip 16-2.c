@@ -1,3 +1,5 @@
+/*Write a program to read a text file and display all the characters such 
+that the case is reversed (upper to lower and lower to upper case).*/
 #include<stdio.h>
 
 int main()
